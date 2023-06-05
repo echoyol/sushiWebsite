@@ -1,0 +1,10 @@
+.popular-food {
+  padding: 64px;
+
+  display: flex;
+  flex-direction: column;
+
+  background-color: var(--primary-color);
+  background-image: url('../../assets/popular_bg.png');
+  background-position: center;
+}
