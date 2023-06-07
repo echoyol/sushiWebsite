@@ -73,12 +73,4 @@
   font-weight: 500;
   font-family: var(--plus-jakarta-sans);
   color: #fff;
-  text-align: center;
-
-  background: var(--black-400);
-  border-radius: 46px;
-  border: none;
-  outline: none;
-
-  cursor: pointer;
 }
